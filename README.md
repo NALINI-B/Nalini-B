@@ -1,75 +1,80 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=📊+Aspiring+Data+Analyst+on+a+Mission+to+Decode+Data;🚀+Turning+Insights+Into+Actionable+Decisions;🎯+Learning+Every+Day+Through+Real-World+Projects" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=E94BE9&center=true&vCenter=true&width=950&lines=Hi+there!+I'm+Nalini+Banki+%F0%9F%91%8B;Data+isn't+just+numbers+--+it's+my+language+%F0%9F%93%88;I+turn+questions+into+insights+with+Python+and+Power+BI+%F0%9F%94%A5;Learning+relentlessly+--+building+fearlessly+%F0%9F%9A%80" alt="Typing animation" />
 </div>
 
 ---
 
-# 🚀 Welcome to My Data Journey 🌍  
-## 👋 Hi, I'm Nalini Banki
+# 👋 Hey, I’m Nalini Banki
 
-🎓 A **Computer Science Graduate** from India passionate about **analyzing data**, building **interactive dashboards**, and helping businesses make **smarter decisions** with insights.  
-🌱 Currently focused on sharpening my skills through **projects** and **real-world challenges**.
+A curious mind who sees the world in charts, filters, and dashboards.  
+📊 I believe that **behind every number, there's a human decision waiting to happen.**  
 
----
-
-## 💼 What I Do
-
-🔹 Analyze and explore structured data using SQL & Python 🧠  
-🔹 Build compelling dashboards in Power BI to visualize business trends 📊  
-🔹 Perform EDA to uncover patterns, anomalies, and insights 🔍  
-🔹 Clean and transform messy datasets into ready-to-use formats 🧼  
-🔹 Solve real-world problems through practical projects 🚧
+I'm a **Computer Science graduate** turned **Data Analyst-in-progress**, passionate about storytelling through numbers and finding meaning in messy data.
 
 ---
 
-## 🧠 Skillset (Simplified)
+## 🚧 What I’m Building
 
-💻 **Role:** Aspiring Data Analyst  
-🛠️ **Strengths:** EDA | Dashboarding | Data Cleaning  
-🧩 **Tools Used:** Power BI | Python | SQL | Excel
+🛠️ **Swiggy-Style Delivery Dashboard**  
+A colorful, interactive Power BI dashboard that tracks delivery performance by city, traffic, weather, and more.
 
----
+📉 **Debt Risk EDA**  
+A Python-powered exploration of how income, education, and age affect debt patterns — for smarter financial insights.
 
-## 🌟 Projects
-
-### 🍴 [Swiggy Delivery Dashboard](https://github.com/NALINI-B/Swiggy_dashboard)  
-A detailed Power BI dashboard that analyzes food delivery metrics — with filters like city, weather, and traffic.
-
-### 💳 [Debt Analysis](https://github.com/NALINI-B/DataAnalyst_Projects/tree/main/DataAnalyst_Projects/Debt%20analysis)  
-EDA project using Python to understand income groups, debt ratio, and more for credit scoring decisions.
-
-### 💼 Gredsiren – Job & Internship Discovery Platform  
-Backend + scraping project to help freshers find jobs using Django and Octoparse.
+🌐 **Gredsiren**  
+A Django-based backend for scraping and organizing job/internship listings to help freshers like me land their dream roles.
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 💡 How I Work
 
-![Profile Views](https://komarev.com/ghpvc/?username=NALINI-B&color=blue&style=flat-square)
-
-### 🏆 GitHub Trophy  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NALINI-B&theme=onedark&no-frame=true&margin-w=15)
-
-### 📊 Contribution Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NALINI-B&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-### 📈 Activity Graph  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NALINI-B&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 💻 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NALINI-B&show_icons=true&theme=radical)
-
-### 🌐 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NALINI-B&layout=compact&theme=radical)
+🔎 I explore before I explain  
+📌 I design visuals that make data memorable  
+🎯 I ask why before I ask how  
+📈 I prioritize clarity over complexity  
+💬 I believe communication is a data skill, too
 
 ---
 
-## 📢 Let's Connect!
+## 🧠 Tech I Use (And Love)
 
-🔗 [**LinkedIn**](https://www.linkedin.com/in/nalini24)  
-📩 **Email:** [nalinibanki7@gmail.com](mailto:nalinibanki7@gmail.com)
+- 📘 **Languages:** Python, SQL  
+- 📊 **Dashboards:** Power BI  
+- 🧹 **Cleanup Crew:** Pandas, Excel  
+- 🧠 **Thinking Tools:** Jupyter, Matplotlib, Seaborn  
+- 💬 **Soft Skills:** Empathy, Curiosity, Focus
 
 ---
 
-✨ _Always learning. Always building._  
-📊 _Let’s turn data into decisions!_
+## 🔄 Recently...
+
+✔️ Completed a 6-month Data Science + Generative AI course  
+✔️ Earned HackerRank SQL certificates (Basic + Intermediate)  
+✔️ Graduated in 2024 with a B.Tech in Computer Science  
+✔️ Interned as a Python backend + data projects contributor
+
+---
+
+## 📊 GitHub Stats & Visuals
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NALINI-B&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NALINI-B&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NALINI-B&theme=tokyonight)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NALINI-B&theme=github-compact)
+
+---
+
+## 📬 Want to Collaborate or Just Say Hi?
+
+📩 **Email:** [nalinibanki7@gmail.com](mailto:nalinibanki7@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/nalini24](https://www.linkedin.com/in/nalini24)  
+🛠️ **Portfolio Projects:** [github.com/NALINI-B](https://github.com/NALINI-B)
+
+---
+
+## ✨ Motto
+
+> "I don’t just analyze data — I listen to what it’s trying to say."  
+Let’s build insights, not just dashboards. Let’s create clarity, not just reports.  
+And above all — let’s stay curious. 🌱
+
