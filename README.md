@@ -15,16 +15,24 @@ I'm a **Computer Science graduate** turned **Data Analyst-in-progress**, passion
 
 ## 🚧 What I’m Building
 
-🛠️ **Swiggy-Style Delivery Dashboard**  
-A colorful, interactive Power BI dashboard that tracks delivery performance by city, traffic, weather, and more.
-
-📉 **Debt Risk EDA**  
-A Python-powered exploration of how income, education, and age affect debt patterns — for smarter financial insights.
-
-🌐 **Gredsiren**  
-A Django-based backend for scraping and organizing job/internship listings to help freshers like me land their dream roles.
+### 🛵 Swiggy-Style Delivery Dashboard (Power BI)  
+An interactive Power BI dashboard inspired by food delivery services like Swiggy.  
+- Tracks **delivery times**, **order status**, **customer ratings**, and **traffic conditions** across cities  
+- Provides dynamic filters for **weather**, **traffic**, and **city zones**  
+- Designed to help **operations teams** make data-backed decisions on delivery performance  
+🎯 *Goal:* Turn operational chaos into visual clarity for logistics teams.
 
 ---
+
+### 💳 Debt Risk EDA (Python & Visualization)  
+A Python-driven exploratory data analysis project examining personal debt trends.  
+- Used Pandas, Matplotlib, and Seaborn to analyze debt based on **age**, **education**, and **income**  
+- Focused on understanding **risk segments** and predicting potential **defaults**  
+- Included **data cleaning**, **missing value imputation**, and **feature analysis**  
+🎯 *Goal:* Enable smarter lending decisions by understanding borrower behavior patterns.
+
+---
+
 
 ## 💡 How I Work
 
@@ -77,4 +85,5 @@ A Django-based backend for scraping and organizing job/internship listings to he
 > "I don’t just analyze data — I listen to what it’s trying to say."  
 Let’s build insights, not just dashboards. Let’s create clarity, not just reports.  
 And above all — let’s stay curious. 🌱
+
 
