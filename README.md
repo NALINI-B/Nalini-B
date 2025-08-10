@@ -78,6 +78,8 @@ A Python-driven exploratory data analysis project examining personal debt trends
 🔗 **LinkedIn:** [linkedin.com/in/nalini24](https://www.linkedin.com/in/nalini24)  
 🛠️ **Portfolio Projects:** [github.com/NALINI-B](https://github.com/NALINI-B)
 
+![Profile Views](https://komarev.com/ghpvc/?username=NALINI-B&color=blue)
+
 ---
 
 ## ✨ Motto
